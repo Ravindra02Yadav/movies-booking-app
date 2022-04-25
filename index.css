@@ -1,0 +1,75 @@
+
+ 
+  body{
+      background-color: #2f2d5f;
+      color: white;
+  }
+  #navbar{
+      display: flex;
+      justify-content: center;
+
+  }
+  #navbar>div{
+margin-left: 150px;
+
+  }
+  #add-money{
+      text-align: center;
+      border: 1px solid black;
+      width: 90%;
+      margin: auto;
+      border-radius: 25px;
+      
+  }
+  #add-money>input{
+    font-size: 20px;
+    padding: 5px;
+    border: none;
+  }
+  #add-money>button{
+    border-radius: 50%;
+   
+    margin: 2px;
+    padding: 15px;
+    background-color: #7938ea;
+    border: none;
+   
+
+  }
+ 
+  #add_to_wallet>i{
+      color: white;
+      font-size: 20px;
+     
+  }
+
+
+  #add-money>button:hover{
+      cursor: pointer;
+  }
+ 
+  #moviesBtn>a{
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 90%;
+  margin: auto;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-top: 20px;
+  height: 40px;
+  padding-top: 10px;
+      
+  }
+  a{
+      text-decoration: none;
+  }
+
+  #head{
+      background-color: white;
+      height: 400px;
+    padding-top: 50px;
+    width: 500px;
+    margin: auto;
+    border-radius: 50px;
+  }
